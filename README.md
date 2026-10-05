@@ -32,3 +32,7 @@ Give a small organization a concise view of its Intune environment: what is work
 ## How to use this sample
 
 Use the checklist to structure a scoped discovery. Replace every fictional observation in the sample report with verified evidence before using the format for paid client work. Tailor scope and recommendations to the client’s licensing, risk tolerance, regulatory obligations, and operating model.
+
+## Service offer
+
+See [the scoped assessment offer](service-offer.md) for the client fit, deliverables, boundaries, and engagement process.
